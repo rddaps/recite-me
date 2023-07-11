@@ -17,7 +17,7 @@ After cloning, use npm install to install the project
 
 ## Usage
 Use node index.js to run the application  
-Recording of project usage available [HERE](https://drive.google.com)
+Recording of project usage available [HERE]([https://drive.google.com](https://watch.screencastify.com/v/3MZjB8xXq8KOm3p8pFdT))
 
 ## Credits
 Reach out to make any contributions
